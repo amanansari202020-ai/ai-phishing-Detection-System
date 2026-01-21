@@ -31,19 +31,10 @@ AI-Phishing-Detection/
 ├── phishing_dataset.csv    # Dataset containing emails and labels
 ├── requirements.txt        # Required Python libraries
 ├── README.md               # Project documentation
-⚙️ How to Run the Project
-Step 1: Install dependencies
-Copy code
-Bash
-pip install -r requirements.txt
-Step 2: Run the Streamlit app
-Copy code
-Bash
-streamlit run app.py
-Step 3: Open in browser
-After running the command, a browser window will open automatically.
-If not, open:
-Copy code
+
+
+https://ai-phishing-detection-system-7yney7pdwvtpbxffjzzpxm.streamlit.app/
+
 
 http://localhost:8501
 🧪 Example Inputs
@@ -71,11 +62,3 @@ Improve accuracy with larger datasets
 Show confidence score (%)
 Use advanced ML/DL models
 Deploy the app online
-👨‍💻 Author
-Ansari Md Khurshid
-If you want, next I can help you with:
-✅ GitHub upload steps
-✅ Resume description
-✅ Hackathon explanation
-✅ Adding screenshots to README
-Just tell me 😊
