@@ -23,7 +23,7 @@ Streamlit
 TF-IDF Vectorizer
 Naive Bayes Classifier
 📂 Project Structure
-Copy code
+
 
 AI-Phishing-Detection/
 │
@@ -36,14 +36,13 @@ AI-Phishing-Detection/
 https://ai-phishing-detection-system-7yney7pdwvtpbxffjzzpxm.streamlit.app/
 
 
-http://localhost:8501
 🧪 Example Inputs
 Phishing Example:
-Copy code
+
 
 Your bank account has been suspended. Click the link to verify immediately.
 Safe Example:
-Copy code
+
 
 Hi, your meeting is scheduled for tomorrow at 10 AM.
 🧠 How It Works
